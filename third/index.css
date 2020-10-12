@@ -1,0 +1,59 @@
+body {
+  padding: 25px;
+}
+
+.gray-bar {
+  border: 10px;
+  padding: 10px;
+  box-sizing: border-box;
+  background-color: gray;
+}
+
+.blue-sq {
+  width: 10%;
+  height: 30px;
+  border: 1px solid rgb(219, 184, 184);
+  background-color: white;
+  padding: 50px;
+  box-sizing: border-box;
+  margin-left: 10px;
+  background-color: rgb(41, 111, 216);
+}
+
+.white-bar {
+  border: 10px;
+  padding: 10px;
+  box-sizing: border-box;
+  background-color: white;
+}
+
+.white-bar h3 {
+  width: 100%;
+  text-align: center;
+  color: grey;
+}
+
+.blue-bar {
+  border: 10px;
+  padding: 60px;
+  box-sizing: border-box;
+  background-color: blue;
+}
+.cyan-bar {
+  border: 10px;
+  padding: 60px;
+  box-sizing: border-box;
+  background-color: cyan;
+}
+.teal-bar {
+  border: 10px;
+  padding: 60px;
+  box-sizing: border-box;
+  background-color: teal;
+}
+.yellow-bar {
+  border: 10px;
+  padding: 60px;
+  box-sizing: border-box;
+  background-color: yellow;
+}
